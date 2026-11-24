@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix AuraEmpathy: Clinical Patient Dialogue \u0026 Feeling Explorer",
+  "description": "Simulated patient consultation environment for medical and nursing students to practice exploring how patients feel in real time across physical, emotional, and social dimensions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
